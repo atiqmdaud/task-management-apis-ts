@@ -3,11 +3,11 @@ Task Management Apis - demo only
 need MongoDB local server
 
 to run:<br/>
+npm install <br/>
 node dist/server.js
 
 Api url:<br/>
 localhost:5000/api/
-
 
 create Task: POST <br />
 Endpoint: <br/>
